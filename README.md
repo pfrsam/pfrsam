@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sarvar 👋</h1>
+<h1 align="center">Hi, I'm Sarvarbek 👋</h1>
 
 <p align="center">
   <b>AI/ML Engineer in Training · Hanyang University · Seoul, South Korea 🇰🇷</b><br/>
